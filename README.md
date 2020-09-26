@@ -8,7 +8,7 @@
 
 * 站点：[https://oldbird.run](https://oldbird.run)，干货多多，过来人带你最佳实践。
 
-致力于 swift/vapor/ios/flutter/python 等技术。
+致力于 swift/vapor/ios/flutter/python/rust 等技术。
 
 
 ### 维护的项目
