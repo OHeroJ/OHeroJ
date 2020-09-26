@@ -8,7 +8,9 @@
 
 * 博客：[https://oldbird.run](https://oldbird.run)，干货多多，过来人带你最佳实践。
 
-致力于 swift/vapor/ios/flutter/python/rust 等技术。
+
+### 技术
+swift/vapor/ios/flutter/python/rust/kotlin 等技术。
 
 
 ### 维护的项目
