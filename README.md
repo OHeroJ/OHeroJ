@@ -10,7 +10,7 @@
 
 
 ### 技术
-swift/vapor/ios/flutter/python/rust/kotlin 等技术。
+swift/vapor/ios/flutter/python 等技术。
 
 ### 现阶段开发项目
 * [swiftdo/boke](https://github.com/swiftdo/boke): vapor4 博客项目
